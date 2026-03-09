@@ -125,7 +125,7 @@ Repository Structure
 bioinformatics-project2-functional-enrichment
 
 scripts
-│   enrichment_analysis.R
+│   Project 2.R
 
 results
 │   GO_dotplot_project2.png
